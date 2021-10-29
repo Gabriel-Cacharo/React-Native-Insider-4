@@ -42,7 +42,7 @@ expo start
 
 ## 📷💻 Images:
 
-![WhatsApp Image 2021-10-29 at 11 29 49](https://user-images.githubusercontent.com/57328274/139453557-e11aac7a-06fa-4345-bdd1-46bd7eda59b0.jpeg)
+![shotsnapp-1635518006 883](https://user-images.githubusercontent.com/57328274/139453981-1a0f29f4-5113-4ce9-aa74-a49b1d86a269.png)
 
 ---
 
