@@ -22,7 +22,7 @@
 
 ## 💻 To use the system, you must follow the steps below:
 
-**1.** To use the system, you must have NodeJS and <a src="https://expo.dev/" target="_blank">Expo</a> installed on your machine...
+**1.** To use the system, you must have NodeJS and Expo ( https://expo.dev/ ) installed on your machine...
 
 **2.** Firstly, you clone the repository to your computer.
 
@@ -48,7 +48,7 @@ expo start
 
 ## 📗 Credits:
 
-<a src="https://www.instagram.com/sujeitoprogramador/" target="_blank">Sujeito Programador</a>
+<p>Sujeito Programador ( https://www.instagram.com/sujeitoprogramador/ )</p>
 
 ---
 
